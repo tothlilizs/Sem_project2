@@ -11,4 +11,4 @@ This project was created by our group:
 * [Joseph Carroll](https://github.com/carrolljody)
 * [Lili Zsuzsanna Tóth](https://github.com/tothlilizs)
 
-Project's documentation can be found [here](https://drive.google.com/file/d/1f__gZU_w9G0U_ax2j4GEA2A_t1ijyfFZ/view?usp=sharing)
+The project's documentation can be found [here](https://drive.google.com/file/d/1f__gZU_w9G0U_ax2j4GEA2A_t1ijyfFZ/view?usp=sharing)
