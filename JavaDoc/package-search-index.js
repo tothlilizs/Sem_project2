@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"Launch"},{"l":"Mediator"},{"l":"Model"},{"l":"Model.FAQ"},{"l":"Model.Forum"},{"l":"Model.Home"},{"l":"Model.SearchItems"},{"l":"Model.ViewModelInterfaces"},{"l":"Persistence"},{"l":"View"},{"l":"View.SearchStrategy"},{"l":"ViewModel"}]

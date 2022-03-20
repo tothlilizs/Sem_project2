@@ -1,0 +1,12 @@
+Launch
+Mediator
+Model
+Model.FAQ
+Model.Forum
+Model.Home
+Model.SearchItems
+Model.ViewModelInterfaces
+Persistence
+View
+View.SearchStrategy
+ViewModel
